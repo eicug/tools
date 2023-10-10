@@ -1,4 +1,3 @@
-Using input file ../data/eicug-email-20231010.csv
 a.hoghmrtsyan@yerphi.am
 maruk@yerphi.am
 a.mkrtchyan@yerphi.am

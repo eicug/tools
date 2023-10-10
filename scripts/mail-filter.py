@@ -11,7 +11,7 @@ args        = parser.parse_args()
 inputfile   = args.input
 mode        = args.mode
 
-print(f'''Using input file {inputfile}''')
+# print(f'''Using input file {inputfile}''')
 
 if mode!='filter' and mode!='alt':
     print('Invalid mode specified, exiting')
